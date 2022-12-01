@@ -1,21 +1,16 @@
 ## Seja bem vindo ao meu perfil!
 
-<!--
-**alessandracruz/alessandracruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Alessandra Cruz e sempre fui fã de tecnologia! Bom...a vida foi me levando por outros caminhos e nunca tive a oportunidade de estudar à fundo até conhecer uma escola onde a formação não necessita de pré-requisito técnico algum. E, quando achei que não era mais tão nova assim para aprender mais sobre o assunto, veio a [@42School](https://github.com/42School) e me mostrou que não! Desde então sigo no meu processo de estudo e aprendizagem cada vez mais isntigada com tantas possibilidades desse universo!
 
-Meu nome é Alessandra Cruz e amo tecnologia. Quando achei que não era mais tão nova assim para aprender mais sobre o assunto, veio a @42School e me mostrou que não! Então sigo no meu processo de estudo e aprendizagem cada vez mais isntigada com tantas possibilidades desse universo!
+Atualmente, dedico o maior tempo dos meus estudos para a [42|Rio](https://42.rio/), uma escola de Engenharia de Software grautita e que tem [47 campus em 26 países](https://www.42network.org/42-schools/). Também diversifico meu conhecimento em outras linguagens na plataforma de educação da [Alura](https://www.alura.com.br/). Tem sido um processo bacana de desafios, aprendizagens e descobertas!
 
-Atualmente, dedico o maior tempo dos meus estudos na 42|Rio, uma escola de Engenharia de Software que tem 47 campus em 26 paíse. Também diversifico meu conhecimento em outras linguagens na plataforma de educação da Alura. Tem sido um processo bacana de desafios, aprendizagens e descobertas!
-
-Here are some ideas to get you started:
-
-- 🔭 Sou do Rio de Janeiro.
-- 🌱 Estou aprendendo linguagem C de programação e Python para Data Science.
-- 👯 Estou aberta a trocar novas experiências de boas práticas nesse início do meu processo com programação.
--    Tenho interesse em segurança da informação, arquitetura de software e UX Design.
--    Nesse pouco tempo de estudo e caminhada conquistei com uma equipe incrível da 42|Rio o Terceiro Lugar no maior Hackaton da América Latina em Setembro de 2022, o Hacking.Rio e foi incrível!
-- 🤔 Podem em contato comigo em alessandracruz@alessandracruz.com
-- 💬 Amo viajar seja de carro, avião ou motor home  e estar em lugares diferentes, conhecendo culturas, comidas e pessoas!
+- 🌎 Sou do Rio de Janeiro.
+- 🧠 Estou aprendendo linguagem C de programação e Python para Data Science.
+- ✔️ Estou aberta a trocar novas experiências de boas práticas nesse início do meu processo com programação.
+- 💡  Tenho interesse em segurança da informação, arquitetura de software e UX Design.
+- 🥉  Nesse pouco tempo de estudo e caminhada conquistei com uma equipe incrível da 42|Rio o Terceiro Lugar no maior Hackaton da América Latina em Setembro de 2022, o [Hacking.Rio](https://www.hackingrio.com/) e foi incrível!
+- 📧 Podem em contato comigo em alessandracruz@alessandracruz.com.br
+- ✈️ Amo viajar seja de carro, avião ou motor home  e estar em lugares diferentes, conhecendo culturas, comidas e pessoas!
 
 <br>
 
