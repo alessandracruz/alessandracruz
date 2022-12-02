@@ -1,6 +1,6 @@
 ## Seja bem vindo ao meu perfil!
 
-Meu nome é Alessandra Cruz e sempre fui fã de tecnologia! Bom...a vida foi me levando por outros caminhos e nunca tive a oportunidade de estudar à fundo até conhecer uma escola onde a formação não necessita de pré-requisito técnico algum. E, quando achei que não era mais tão nova assim para aprender mais sobre o assunto, veio a [@42School](https://github.com/42School) e me mostrou que não! Desde então sigo no meu processo de estudo e aprendizagem cada vez mais isntigada com tantas possibilidades desse universo!
+Meu nome é Alessandra Cruz e sempre fui fã de tecnologia! Bom...a vida foi me levando por outros caminhos e nunca tive a oportunidade de estudar à fundo até conhecer uma escola onde a formação não necessita de pré-requisito técnico algum. E, quando achei que não era mais tão nova assim para aprender mais sobre o assunto, veio a [École 42 Paris](https://42.fr/en/homepage/) e me mostrou que não! Desde então sigo no meu processo de estudo e aprendizagem cada vez mais isntigada com tantas possibilidades desse universo!
 
 Atualmente, dedico o maior tempo dos meus estudos para a [42|Rio](https://42.rio/), uma escola de Engenharia de Software grautita e que tem [47 campus em 26 países](https://www.42network.org/42-schools/). Também diversifico meu conhecimento em outras linguagens na plataforma de educação da [Alura](https://www.alura.com.br/). Tem sido um processo bacana de desafios, aprendizagens e descobertas!
 
