@@ -9,7 +9,7 @@ Atualmente, dedico o maior tempo dos meus estudos para a [42|Rio](https://42.rio
 - ✔️ Estou aberta a trocar novas experiências de boas práticas nesse início do meu processo com programação.
 - 💡  Tenho interesse em segurança da informação, arquitetura de software e UX Design.
 - 🥉  Nesse pouco tempo de estudo e caminhada conquistei com uma [equipe incrível da 42|Rio o Terceiro Lugar](https://camo.githubusercontent.com/d4e953e4a344d1d3d02109a55e2bfd0264a66bf4328dd1b0862db124a3148638/68747470733a2f2f6d656469612d657870312e6c6963646e2e636f6d2f646d732f696d6167652f43344432324151485372555a5a3646387144772f6665656473686172652d736872696e6b5f323034385f313533362f302f313636323933393335313737383f653d3136373034353736303026763d6265746126743d547259686e76746e676b483466487747424a5470647a487971354a764c5a6a50764165734e425a4d634b45) no maior [Hackaton da América Latina em Setembro de 2022](https://www.youtube.com/watch?v=dQVgCQOLFBk), o [Hacking.Rio](https://www.hackingrio.com/) e foi incrível!
-- 📧 Podem em contato comigo em alessandracruz@alessandracruz.com.br
+- 📧 Podem entrar em contato comigo em alessandracruz@alessandracruz.com.br
 - ❤️ Amo viajar seja de carro, avião ou motor home e estar em lugares diferentes, conhecendo culturas, comidas e pessoas!
 
 <!-- GITHUB STATUS -->
