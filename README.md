@@ -1,4 +1,4 @@
-## Sejam bem vindo ao meu perfil!:sunflower:
+## Sejam bem vindos ao meu perfil! :sunflower:
 
 Meu nome é Alessandra Cruz e sempre fui fã de tecnologia! Bom...a vida foi me levando por outros caminhos e nunca tive a oportunidade de estudar à fundo até conhecer uma escola onde a formação não necessita de pré-requisito técnico algum. E, quando achei que não era mais tão nova assim para aprender mais sobre o assunto, veio a [École 42 Paris](https://42.fr/en/homepage/) e me mostrou que não! Desde então sigo no meu processo de estudo e aprendizagem cada vez mais isntigada com tantas possibilidades desse universo!
 
