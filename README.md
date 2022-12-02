@@ -8,9 +8,9 @@ Atualmente, dedico o maior tempo dos meus estudos para a [42|Rio](https://42.rio
 - 🧠 Estou aprendendo linguagem C de programação e Python para Data Science.
 - ✔️ Estou aberta a trocar novas experiências de boas práticas nesse início do meu processo com programação.
 - 💡  Tenho interesse em segurança da informação, arquitetura de software e UX Design.
-- 🥉  Nesse pouco tempo de estudo e caminhada conquistei com uma equipe incrível da 42|Rio o Terceiro Lugar no maior Hackaton da América Latina em Setembro de 2022, o [Hacking.Rio](https://www.hackingrio.com/) e foi incrível!
+- 🥉  Nesse pouco tempo de estudo e caminhada conquistei com uma [equipe incrível da 42|Rio o Terceiro Lugar](https://camo.githubusercontent.com/d4e953e4a344d1d3d02109a55e2bfd0264a66bf4328dd1b0862db124a3148638/68747470733a2f2f6d656469612d657870312e6c6963646e2e636f6d2f646d732f696d6167652f43344432324151485372555a5a3646387144772f6665656473686172652d736872696e6b5f323034385f313533362f302f313636323933393335313737383f653d3136373034353736303026763d6265746126743d547259686e76746e676b483466487747424a5470647a487971354a764c5a6a50764165734e425a4d634b45) no maior [Hackaton da América Latina em Setembro de 2022](https://www.youtube.com/watch?v=dQVgCQOLFBk), o [Hacking.Rio](https://www.hackingrio.com/) e foi incrível!
 - 📧 Podem em contato comigo em alessandracruz@alessandracruz.com.br
-- ✈️ Amo viajar seja de carro, avião ou motor home  e estar em lugares diferentes, conhecendo culturas, comidas e pessoas!
+- ❤️ Amo viajar seja de carro, avião ou motor home e estar em lugares diferentes, conhecendo culturas, comidas e pessoas!
 
 <br>
 
@@ -21,16 +21,19 @@ Atualmente, dedico o maior tempo dos meus estudos para a [42|Rio](https://42.rio
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
-
-<br>
-
 <!-- TECNOLOGIAS -->
-<div align="center">
+<<div align="left">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+## Estou aprendendo todo dia um pouco de:
+
+![C Languege](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python para Data Science](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -41,5 +44,4 @@ Atualmente, dedico o maior tempo dos meus estudos para a [42|Rio](https://42.rio
 
  ![](https://visitor-badge.glitch.me/badge?page_id=alessandracruz)
 </div>
--->
 
