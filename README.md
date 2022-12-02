@@ -12,19 +12,17 @@ Atualmente, dedico o maior tempo dos meus estudos para a [42|Rio](https://42.rio
 - 📧 Podem em contato comigo em alessandracruz@alessandracruz.com.br
 - ❤️ Amo viajar seja de carro, avião ou motor home e estar em lugares diferentes, conhecendo culturas, comidas e pessoas!
 
-<br>
-
 <!-- GITHUB STATUS -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandracruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandracruz&layout=compact&langs_count=10&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/?username=alessandracruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandracruz&layout=compact&langs_count=10&theme=dark"/>
 
-  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-</div>
+<!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula>
+
 <!-- TECNOLOGIAS -->
-<<div align="left">
+<div align="left">
 
-## Estou aprendendo todo dia um pouco de:
+## Aprendendo todo dia um pouco de:
 
 ![C Languege](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -39,9 +37,7 @@ Atualmente, dedico o maior tempo dos meus estudos para a [42|Rio](https://42.rio
 
 <!-- REDES SOCIAIS -->
 <div align="center">
-  <a href="https://instagram.com/alessaccruz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alessandraccruz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/alessaccruz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/alessandraccruz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
  ![](https://visitor-badge.glitch.me/badge?page_id=alessandracruz)
-</div>
-
