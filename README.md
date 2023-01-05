@@ -16,7 +16,7 @@ Atualmente, dedico o maior tempo dos meus estudos para a [42|Rio](https://42.rio
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=alessandracruz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandracruz&layout=compact&langs_count=10&theme=dark"/>
-
+ 
 <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula>
 
 <!-- TECNOLOGIAS -->
