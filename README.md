@@ -7,7 +7,7 @@ Atualmente, dedico o maior tempo dos meus estudos para a [42|Rio](https://42.rio
 - 🌎 Sou do Rio de Janeiro.
 - 🧠 Estou aprendendo linguagem C de programação e Python para Data Science.
 - ✔️ Estou aberta a trocar novas experiências de boas práticas nesse início do meu processo com programação.
-- 💡  Tenho interesse em segurança da informação, arquitetura de software e UX Design.
+- 💡  Tenho interesse em segurança da informação, arquitetura de software, UX Design, Blockchain e Web 3.0.
 - 🥉  Nesse pouco tempo de estudo e caminhada conquistei com uma [equipe incrível da 42|Rio o Terceiro Lugar](https://github.com/alessandracruz/Imagens/blob/main/Premia%C3%A7%C3%A3o.jpeg?raw=true) no maior [Hackaton da América Latina em Setembro de 2022](https://www.youtube.com/watch?v=dQVgCQOLFBk), o [Hacking.Rio](https://www.hackingrio.com/) e foi incrível!
 - 📧 Podem entrar em contato comigo em alessandracruz@alessandracruz.com.br
 - ❤️ Amo viajar seja de carro, avião ou motor home e estar em lugares diferentes, conhecendo culturas, comidas e pessoas!
