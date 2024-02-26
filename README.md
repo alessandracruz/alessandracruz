@@ -1,16 +1,19 @@
 ## Sejam bem vindos ao meu perfil! :sunflower:
 
-Meu nome é Alessandra Cruz e sempre fui fã de tecnologia! Bom...a vida foi me levando por outros caminhos e nunca tive a oportunidade de estudar à fundo até conhecer uma escola onde a formação não necessita de pré-requisito técnico algum. E, quando achei que não era mais tão nova assim para aprender mais sobre o assunto, veio a [École 42 Paris](https://42.fr/en/homepage/) e me mostrou que não! Desde então sigo no meu processo de estudo e aprendizagem cada vez mais isntigada com tantas possibilidades desse universo!
+Olá! Sou **Alessandra Cruz**, uma entusiasta da tecnologia cuja paixão me levou da curiosidade à profunda imersão na programação, graças à experiência transformadora da [**École 42 Paris**](https://www.42network.org/42-schools/) na [**42|Rio**](https://42.rio/).
 
-Atualmente, dedico o maior tempo dos meus estudos para a [42|Rio](https://42.rio/), uma escola de Engenharia de Software grautita e que tem [47 campus em 26 países](https://www.42network.org/42-schools/). Também aprofundo meu conhecimento com o curso _**CS50 de Harvard**_. Tem sido um processo bacana, cheio de desafios, muito mais do que eu esperava, muita aprendizage e descobertas!
+- 🌎 **Localização:** Rio de Janeiro, Brasil
+- 🧠 **Foco Atual:** Desenvolvendo habilidades em `C` `C++`, `SQL`, `Power BI` para **Data Science**.
+- 💼 **Interesses:** Data Science, Segurança da Informação, Arquitetura de Software, UX Design, Blockchain, Web 3.0.
+- 🏆 **Conquistas:** Orgulhosa do **3º lugar no Hacking.Rio 2022** com a equipe da 42|Rio.
+- 📫 **Contato:** alessacode@pm.me
+- ❤️ **Paixões além da programação:** Viagens, culturas, comidas e novas experiências.
 
-- 🌎 Sou do Rio de Janeiro.
-- 🧠 Estou aprendendo linguagem C de programação e Python para Data Science.
-- ✔️ Estou aberta a trocar novas experiências de boas práticas nesse início do meu processo com programação.
-- 💡  Tenho interesse em segurança da informação, arquitetura de software, UX Design, Blockchain e Web 3.0.
-- 🥉  Nesse pouco tempo de estudo e caminhada conquistei com uma [equipe incrível da 42|Rio o Terceiro Lugar](https://github.com/alessandracruz/Imagens/blob/main/Premia%C3%A7%C3%A3o.jpeg?raw=true) no maior [Hackaton da América Latina em Setembro de 2022](https://www.youtube.com/watch?v=dQVgCQOLFBk), o [Hacking.Rio](https://www.hackingrio.com/) e foi incrível!
-- 📧 Podem entrar em contato comigo em alessacode@pm.me
-- ❤️ Amo viajar seja de carro, avião ou motor home e estar em lugares diferentes, conhecendo culturas, comidas e pessoas!
+## Projetos em Destaque: 🖥️
+
+- **[libft](#)** - Uma biblioteca em C que se tornou a espinha dorsal para quase todos os meus projetos subsequentes. Este projeto não apenas solidificou minha compreensão das funções padrão da linguagem C, mas também me ensinou a importância de escrever código reutilizável e eficiente. A libft simboliza meu primeiro passo significativo no mundo da programação, demonstrando minha capacidade de aprender conceitos complexos de forma autodidata e aplicá-los de maneira prática.
+- **[Minishell](#)** - Sem dúvida, um dos desafios mais cansativos e ao mesmo tempo estimulante que enfrentei na 42. Recriar a funcionalidade de um Shell Unix não só exigiu um profundo entendimento dos princípios da linguagem C, como também uma compreensão das interações entre o sistema operacional e o software de usuário. Esse projeto me desafiou a pensar como uma verdadeira engenheira de software, tratando de aspectos como parsing de comandos, gerenciamento de processos e manipulação de sinais. Através do Minishell, desenvolvi não apenas habilidades técnicas avançadas, mas também a capacidade de resolver problemas complexos de forma criativa junto com minha dupla, o [**Mateus**](https://github.com/mateusmedeir).
+
 
 <!-- GITHUB STATUS -->
 <div align="center">
@@ -30,10 +33,7 @@ Atualmente, dedico o maior tempo dos meus estudos para a [42|Rio](https://42.rio
 ![C Languege](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python para Data Science](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
