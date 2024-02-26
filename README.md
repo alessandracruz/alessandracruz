@@ -24,10 +24,7 @@ Olá! Sou **Alessandra Cruz**, uma entusiasta da tecnologia cuja paixão me levo
 
 <!-- TECNOLOGIAS -->
 <div align="center">
-
- [![acastilh's 42 stats](https://badge42.vercel.app/api/v2/clfgyo8um005008mmcszkug86/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
- <div align="center">
-  
+ 
 ## Aprendendo todo dia um pouco de:
 
 ![C Languege](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
