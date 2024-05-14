@@ -1,19 +1,19 @@
 ## Sejam bem vindos ao meu perfil! :sunflower:
 
-Olá! Sou **Alessandra Cruz**, uma entusiasta da tecnologia cuja paixão me levou da curiosidade à profunda imersão na programação, graças à experiência transformadora da [**École 42 Paris**](https://www.42network.org/42-schools/) na [**42|Rio**](https://42.rio/).
+Olá! Sou Alessandra Cruz, uma entusiasta da tecnologia cuja jornada me levou da curiosidade à imersão profunda na programação, através da experiência transformadora da [**École 42 Paris**](https://www.42network.org/42-schools/) na [**42|Rio**](https://42.rio/).
 
 - 🌎 **Localização:** Rio de Janeiro, Brasil
-- 🧠 **Foco Atual:** Desenvolvendo habilidades em `C` `C++`, `SQL`, `Power BI` para **Data Science**.
-- 💼 **Interesses:** Data Science, Segurança da Informação, Arquitetura de Software, UX Design, Blockchain, Web 3.0.
-- 🏆 **Conquistas:** Orgulhosa do **3º lugar no Hacking.Rio 2022** com a equipe da 42|Rio.
+- 🧠 **Foco Atual:** Aperfeiçoando habilidades em C, C++, SQL, e Power BI focadas em Data Science.
+- 💼 **Interesses Profissionais:** Estou engajada com áreas como Data Science, Segurança da Informação, Arquitetura de Software, UX Design, Blockchain e Web 3.0, buscando integrar inovação tecnológica e experiência do usuário.
+- 🏆 **Conquistas:** Orgulhosa do 3º lugar no Hacking.Rio 2022 com a equipe da 42|Rio, onde demonstrei minha capacidade de solucionar problemas complexos e inovar sob pressão.
 - 📫 **Contato:** alessacode@pm.me
-- ❤️ **Paixões além da programação:** Viagens, culturas, comidas e novas experiências.
+- ❤️ **Paixões além da programação:** Exploradora de novas culturas através de viagens, apaixonada por gastronomia e sempre em busca de novas experiências.
 
 ## Projetos em Destaque: 🖥️
 
-- **[libft](#)** - Uma biblioteca em C que se tornou a espinha dorsal para quase todos os meus projetos subsequentes. Este projeto não apenas solidificou minha compreensão das funções padrão da linguagem C, mas também me ensinou a importância de escrever código reutilizável e eficiente. A libft simboliza meu primeiro passo significativo no mundo da programação, demonstrando minha capacidade de aprender conceitos complexos de forma autodidata e aplicá-los de maneira prática.
-- **[Minishell](#)** - Sem dúvida, um dos desafios mais cansativos e ao mesmo tempo estimulante que enfrentei na 42. Recriar a funcionalidade de um Shell Unix não só exigiu um profundo entendimento dos princípios da linguagem C, como também uma compreensão das interações entre o sistema operacional e o software de usuário. Esse projeto me desafiou a pensar como uma verdadeira engenheira de software, tratando de aspectos como parsing de comandos, gerenciamento de processos e manipulação de sinais. Através do Minishell, desenvolvi não apenas habilidades técnicas avançadas, mas também a capacidade de resolver problemas complexos de forma criativa junto com minha dupla, o [**Mateus**](https://github.com/mateusmedeir).
+- **[libft](#)** - Este projeto foi uma oportunidade para desenvolver uma biblioteca em C que se tornou fundamental para muitos dos meus projetos futuros. Aprendi não apenas sobre as funções padrão da linguagem, mas também sobre a importância de escrever código reutilizável e eficiente. A libft foi meu primeiro passo significativo na programação, marcando meu desenvolvimento como programadora autodidata capaz de aplicar conceitos complexos de maneira prática.
 
+- **[Minishell](#)** - Um dos desafios mais intensos que enfrentei na 42, onde o objetivo era recriar a funcionalidade de um Shell Unix. Este projeto exigiu um profundo conhecimento dos princípios da linguagem C e das interações entre sistema operacional e software de usuário. Desenvolvi habilidades avançadas de engenharia de software, abordando parsing de comandos, gerenciamento de processos e manipulação de sinais, mostrando minha capacidade de pensar criticamente e resolver problemas complexos em colaboração com minha dupla, o [**Mateus**](https://github.com/mateusmedeir).
 
 <!-- GITHUB STATUS -->
 <div align="center">
