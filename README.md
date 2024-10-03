@@ -3,8 +3,8 @@
 Olá! Sou Alessandra Cruz, uma entusiasta da tecnologia cuja jornada me levou da curiosidade à imersão profunda na programação, através da experiência transformadora da [**École 42 Paris**](https://www.42network.org/42-schools/) na [**42|Rio**](https://42.rio/).
 
 - 🌎 **Localização:** Rio de Janeiro, Brasil
-- 🧠 **Foco Atual:** Aperfeiçoando habilidades em C, C++, SQL, e Power BI focadas em Data Science.
-- 💼 **Interesses Profissionais:** Estou engajada com áreas como Data Engineering, Segurança da Informação, Arquitetura de Software e Infraestrutura de Redes.
+- 🧠 **Foco Atual:** Aperfeiçoando habilidades em C, C++, Python e SQL para Engenharia de Dados.
+- 💼 **Interesses Profissionais:** Estou engajada com áreas como Engenharia de Dados, Segurança da Informação, Infraestrutura de Redes e Cloud Computing.
 - 🏆 **Conquistas:** Orgulhosa do 3º lugar no Hacking.Rio 2022 com a equipe da 42|Rio, onde demonstrei minha capacidade de solucionar problemas complexos e inovar sob pressão.
 - 📫 **Contato:** alessacode@pm.me
 - ❤️ **Paixões além da programação:** Exploradora de novas culturas através de viagens, apaixonada por gastronomia e sempre em busca de novas experiências.
