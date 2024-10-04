@@ -11,9 +11,9 @@ Olá! Sou Alessandra Cruz, uma entusiasta da tecnologia cuja jornada me levou da
 
 ## Projetos em Destaque: 🖥️
 
-- **[libft](#)** - Este projeto foi uma oportunidade para desenvolver uma biblioteca em C que se tornou fundamental para muitos dos meus projetos futuros. Aprendi não apenas sobre as funções padrão da linguagem, mas também sobre a importância de escrever código reutilizável e eficiente. A libft foi meu primeiro passo significativo na programação, marcando meu desenvolvimento como programadora autodidata capaz de aplicar conceitos complexos de maneira prática.
+- **Biblioteca Pessoal em C** - Este projeto foi uma oportunidade para desenvolver uma biblioteca em C que se tornou fundamental para muitos dos meus projetos futuros. Aprendi não apenas sobre as funções padrão da linguagem, mas também sobre a importância de escrever código reutilizável e eficiente. A criaçao dessa biblioteca foi meu primeiro passo significativo na programação, quando aprendi a criar funções reutilizáveis e eficientes, aplicando boas práticas de código e otimização.
 
-- **[Minishell](#)** - Um dos desafios mais intensos que enfrentei na 42, onde o objetivo era recriar a funcionalidade de um Shell Unix. Este projeto exigiu um profundo conhecimento dos princípios da linguagem C e das interações entre sistema operacional e software de usuário. Desenvolvi habilidades avançadas de engenharia de software, abordando parsing de comandos, gerenciamento de processos e manipulação de sinais, mostrando minha capacidade de pensar criticamente e resolver problemas complexos em colaboração com minha dupla, o [**Mateus**](https://github.com/mateusmedeir).
+- **Shell Minimalista em C** - Um dos desafios mais intensos que enfrentei na 42, envolvendo a recriação da funcionalidade básica de um shell Unix. Este projeto exigiu um conhecimento aprofundado dos princípios da linguagem C e das interações entre sistemas operacionais e software de usuário. Desenvolvi habilidades avançadas de engenharia de software, como parsing de comandos, gerenciamento de processos e manipulação de sinais, colaborando com minha dupla, o [**Mateus**](https://github.com/mateusmedeir).
 
 <!-- GITHUB STATUS -->
 <div align="center">
