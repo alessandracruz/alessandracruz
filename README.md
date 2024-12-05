@@ -11,13 +11,14 @@ Olá! Sou Alessandra Cruz, uma entusiasta da tecnologia cuja jornada me levou da
 
 ## Projetos em Destaque: 🖥️
 
-- **Airbnb Rio Data Pipeline**
-Construção de um pipeline de dados no Azure para analisar tendências do Airbnb no Rio de Janeiro. O projeto utiliza Python, Terraform e Blob Storage para estruturar dados em camadas (Raw, Bronze, Silver, Gold) e extrair insights sobre preços, avaliações e sazonalidade. O trabalho envolveu práticas de engenharia de dados, integração com a nuvem e criação de visualizações informativas no Power BI.
-[Link para o Projeto](https://github.com/alessandracruz/AirbnbRioDataPipeline)
+### **Airbnb Rio Data Pipeline**
+- Construção de um pipeline de dados no Azure para analisar tendências do Airbnb no Rio de Janeiro. O projeto utiliza Python, Terraform e Blob Storage para estruturar dados em camadas (Raw, Bronze, Silver, Gold) e extrair insights sobre preços, avaliações e sazonalidade. O trabalho envolveu práticas de engenharia de dados, integração com a nuvem e criação de visualizações informativas no Power BI.
+- [Link para o Projeto](https://github.com/alessandracruz/AirbnbRioDataPipeline)
 
-- **Projeto Final - Extração de Dados**
-Desenvolvimento em equipe de um sistema no Databricks para monitorar avanços no campo da genômica. Dados extraídos da NewsAPI são processados em batches e simulados em um sistema Kafka (Producer/Consumer). O projeto combina Python com mensageria e persistência de dados, garantindo análise e consulta eficiente.
-[Link para o Projeto](https://github.com/alessandracruz/ExtracaoDeDados)
+### **Extração de Dados**
+- Desenvolvimento em equipe de um sistema no Databricks para monitorar avanços no campo da genômica. Dados extraídos da NewsAPI são processados em batches e simulados em um sistema Kafka (Producer/Consumer). O projeto combina Python com mensageria e persistência de dados, garantindo análise e consulta eficiente.
+- [Link para o Projeto](https://github.com/alessandracruz/ExtracaoDeDados)
+  
 
 
 <!-- GITHUB STATUS -->
