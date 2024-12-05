@@ -20,8 +20,8 @@ Olá! Sou Alessandra Cruz, uma entusiasta da tecnologia cuja jornada me levou da
 - [Link para o Projeto](https://github.com/alessandracruz/ExtracaoDeDados)
 
 ### **Analytics Engineering**
-Transformação de dados do Airbnb Rio usando Python e frameworks modernos como dbt e Great Expectations. O projeto carregou dados em um banco PostgreSQL, estruturando-os em camadas (bronze, silver, gold) para gerar insights de negócio. Focado em boas práticas de modelagem de dados e validação automatizada, o trabalho integrou pipelines robustos para análises confiáveis.
- [Link para o Projeto](https://github.com/alessandracruz/AnalyticsEngineering)
+- Transformação de dados do Airbnb Rio usando Python e frameworks modernos como dbt e Great Expectations. O projeto carregou dados em um banco PostgreSQL, estruturando-os em camadas (bronze, silver, gold) para gerar insights de negócio. Focado em boas práticas de modelagem de dados e validação automatizada, o trabalho integrou pipelines para análises confiáveis.
+- [Link para o Projeto](https://github.com/alessandracruz/AnalyticsEngineering)
   
 
 <!-- GITHUB STATUS -->
