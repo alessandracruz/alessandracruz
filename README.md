@@ -5,7 +5,10 @@ Olá! Sou Alessandra Cruz, uma entusiasta da tecnologia cuja jornada me levou da
 - 🌎 **Localização:** Rio de Janeiro, Brasil
 - 🧠 **Foco Atual:** Aperfeiçoando habilidades em C, C++, Python e SQL para Engenharia de Dados.
 - 💼 **Interesses Profissionais:** Estou engajada com áreas como Engenharia de Dados, Segurança da Informação, Infraestrutura de Redes e Cloud Computing.
-- 🏆 **Conquistas:** Orgulhosa do 3º lugar no Hacking.Rio 2022 com a equipe da 42|Rio, onde demonstrei minha capacidade de solucionar problemas complexos e inovar sob pressão.
+- 🏆 **Conquistas:**
+   - 3º lugar no Hacking.Rio 2022 com a equipe da 42|Rio, onde demonstrei minha capacidade de solucionar problemas complexos e inovar sob pressão.
+   - **Certificações:**
+     - GitHub Foundation - Compreensão de boas práticas, versionamento de código e ferramentas avançadas no GitHub.
 - 📫 **Contato:** alessacode@pm.me
 - ❤️ **Paixões além da programação:** Exploradora de novas culturas através de viagens, apaixonada por gastronomia e sempre em busca de novas experiências.
 
