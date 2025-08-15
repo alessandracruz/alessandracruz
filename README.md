@@ -1,18 +1,30 @@
-## Sejam bem vindos ao meu perfil! :sunflower:
+### :sunflower: Olá, eu sou a Alessandra Cruz!
 
-Olá! Sou Alessandra Cruz, uma entusiasta da tecnologia cuja jornada me levou da curiosidade à imersão profunda na programação, através da experiência transformadora da [**École 42 Paris**](https://www.42network.org/42-schools/) na [**42|Rio**](https://42.rio/).
+Minha carreira sempre foi movida pelo **desenvolvimento**. Comecei como química, desenvolvendo novas matérias-primas, e hoje continuo essa jornada na tecnologia, trocando os componentes físicos pelo **código** e os produtos físicos pelo **software**.
 
-- 🌎 **Localização:** Rio de Janeiro, Brasil
-- 🧠 **Foco Atual:** Aperfeiçoando habilidades em C, C++, Python e SQL para Engenharia de Dados.
-- 💼 **Interesses Profissionais:** Estou engajada com áreas como Engenharia de Dados, Segurança da Informação, Infraestrutura de Redes e Cloud Computing.
-- 🏆 **Conquistas:**
-   - 3º lugar no Hacking.Rio 2022 com a equipe da 42|Rio, onde demonstrei minha capacidade de solucionar problemas complexos e inovar sob pressão.
-   - **Certificações:**
-     - GitHub Foundation - Compreensão de boas práticas, versionamento de código e ferramentas avançadas no GitHub.
-- 📫 **Contato:** alessacode@pm.me
-- ❤️ **Paixões além da programação:** Exploradora de novas culturas através de viagens, apaixonada por gastronomia e sempre em busca de novas experiências.
+A essência do meu trabalho permanece a mesma: uma análise criteriosa para otimizar sistemas e resolver problemas complexos.
 
-## Projetos em Destaque: 🖥️
+- 🔭 **Foco Atual:** Desenvolvimento, Engenharia de Dados, Python, SQL, Cloud Architectures (Azure & GCP ).
+- 🌱 **Aprendizado Contínuo:** Aprofundando em pipelines de ETL, Data Warehousing e MLOps.
+- 📫 **Como me encontrar:**
+  - **LinkedIn:** [linkedin.com/in/alessandracruz](https://www.linkedin.com/in/alessandracruz/ )
+  - **Email:** alecruz@alessandracruz.com.br
+
+<br clear="left"/>
+
+---
+
+### 🚀 Meu Projeto Principal: Brava
+
+Atualmente, estou à frente da **Brava**, uma iniciativa open source que fundei para "desenvolver" uma solução para uma falha de sistema no mercado de trabalho.
+
+- **🎯 A Missão:** Criar uma ponte direta para conectar talentos femininos a gestores de vagas, quebrando as barreiras e os filtros que hoje invisibilizam profissionais incríveis.
+- **🔗 Repositório da Organização:** [**github.com/brava-io**](https://github.com/brava-io )
+- **STATUS:** Em desenvolvimento. Contribuições e ideias são bem-vindas!
+
+---
+
+### 💼 Projetos em Destaque
 
 ### **Airbnb Rio Data Pipeline**
 - Construção de um pipeline de dados no Azure para analisar tendências do Airbnb no Rio de Janeiro. O projeto utiliza Python, Terraform e Blob Storage para estruturar dados em camadas (Raw, Bronze, Silver, Gold) e extrair insights sobre preços, avaliações e sazonalidade. O trabalho envolveu práticas de engenharia de dados, integração com a nuvem e criação de visualizações informativas no Power BI.
